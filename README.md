@@ -18,7 +18,7 @@ The framework enables:
 
 ## 🎯 Project Objectives
 
-### **1️⃣ UI Automation Framework – Selenium + Cucumber + TestNG**
+### **1️⃣ UI Automation Framework – Selenium + Cucumber + TestNG**(Sprint 2)
 - Implements a robust BDD-driven UI testing framework.
 - Uses **Page Object Model (POM)** for maintainability.
 - Allows **data-driven testing**.
@@ -27,7 +27,7 @@ The framework enables:
 
 ---
 
-### **2️⃣ API Testing Standards – Postman**
+### **2️⃣ API Testing Standards – Postman**(Sprint 3)
 - Provides industry-standard guidelines for:
   - Folder organization  
   - Reusable scripts  
@@ -42,7 +42,7 @@ The framework enables:
 
 ---
 
-### **3️⃣ API Automation Framework – REST Assured**
+### **3️⃣ API Automation Framework – REST Assured**(Sprint 4)
 - Java‑based automated API test framework using Rest Assured.
 - Modular design with:
   - External config files  
