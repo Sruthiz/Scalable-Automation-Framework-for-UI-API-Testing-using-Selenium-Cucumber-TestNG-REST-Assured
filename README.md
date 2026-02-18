@@ -1,0 +1,2 @@
+# Scalable-Automation-Framework-for-UI-API-Testing-using-Selenium-Cucumber-TestNG-REST-Assured
+This repository contains a robust, maintainable, and scalable test automation framework designed using Selenium, Cucumber (BDD), TestNG, REST Assured, and Postman, aligned with Agile Scrum delivery practices. This Project enables automated execution of regression test cases and API validations across multiple environments.
